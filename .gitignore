@@ -1,5 +1,4 @@
 #File extensions to ignore
-*.csv
 *.gz
 
 #Mac clean-up
